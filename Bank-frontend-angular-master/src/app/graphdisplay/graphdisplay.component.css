@@ -1,0 +1,23 @@
+
+.container{
+    width: 1100px;
+    display: block;
+}
+.button-div{
+    margin-top: 25px;
+}
+.button-div button{
+    min-width: 100px;
+    margin-top: 20px;
+    color: white;
+    background-color: #8dc641;
+    padding: 10px;
+    border-radius: 2px;
+    border: none;
+}
+
+.img-div img{
+    width: 80%;
+    padding-top: 10px;
+    height: auto;
+}

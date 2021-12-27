@@ -1,0 +1,56 @@
+.container{
+    width: 1100px;
+    display: block;
+}
+h1{
+    color: #8dc641;
+
+    padding: 15px;
+    font-family: "ProximaNova", Helvetica, Arial, sans-serif;
+    text-align: center;
+}
+.section{
+    display: flex;
+}
+.file-upload{
+    display: block;
+    margin: 0 auto;
+    background-color:#a3d16775 ;
+    height: 300px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.file-upload h4{
+   margin-top: 15px;
+}
+
+input{
+    width: 400px;
+    margin-top: 20px;
+    color: #a3d167d0;
+}
+.btn{
+    min-width: 100px;
+    margin-top: 20px;
+    background-color: #8dc641;
+    padding: 10px;
+    border-radius: 2px;
+    border-color: rgb(141, 198, 65);
+}
+.section img{
+    overflow: hidden;
+    vertical-align: middle;
+}
+
+.respond{
+    width: 100%;
+    text-align: center;
+    margin-top: 25px;
+}
+.respond h2{
+    color: #8dc641;
+    text-align: center;
+}
+.respond button{
+    width: 300px;
+}
